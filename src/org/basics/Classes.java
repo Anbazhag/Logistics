@@ -24,6 +24,10 @@ public class Classes {
 		
 		System.out.println("Binary sector issues");
 		
+		System.out.println("Vision process with the basic sedition");
+		
+		System.out.println("Simultaneous process");
+		
 	    
 
 	}
